@@ -1,0 +1,27 @@
+Intro:
+hey
+Greetings
+Anyone?
+
+Hotel:
+I want to make an appontment
+I want to make a reservation
+make a reservation please
+
+start date:
+I will checkin 11-11-2017
+I will book on 11-11-2017
+
+end date:
+end date will be 11-30-2017
+
+hotel:
+hotel type will be hotela
+
+room:
+single
+double 
+luxury
+
+checkout:
+name is jon
